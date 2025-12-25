@@ -1,0 +1,8 @@
+{
+  "name": "Light Trap",
+  "description": "Professional selfie lighting web application with adjustable ring light, color temperatures, and brightness controls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
